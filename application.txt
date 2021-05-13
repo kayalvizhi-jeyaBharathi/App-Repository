@@ -1,3 +1,4 @@
 this is a phone application
 mobile-lenovo
 storage-64gb
+rs.21,500.
