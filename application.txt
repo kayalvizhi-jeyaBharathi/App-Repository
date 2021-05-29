@@ -1,4 +1,8 @@
+
 this is a phone application
 mobile-lenovo
 storage-64gb
 rs.21,500.
+
+this is a phone application
+>>>>>>> parent of ae9ced8 (i am creating branch in appbranch)
